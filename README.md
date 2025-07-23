@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-`I'm not here to "just code" — I'm here to **build**, **learn**, and **lead**.`
+`I'm not here to "just code" — I'm here to build, learn, and lead.`
 
 Currently diving deep into:
 - 🔙 Backend Dev (Node.js, Express, MongoDB, JWT)
@@ -29,13 +29,18 @@ I **don’t settle for surface-level knowledge** — if I’m working on somethi
 
 
 
-### 📫 Reach Me
+## 📫 Reach Me thru
 
-- 📧 karthikbalaji.personal@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- 🌐 Portfolio (coming soon...)
 
----
+<p align="center">
+  <a href="mailto:karthikbalaji0310@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/karthikbalaji-s-v"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://karthikbalaji.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+
+  
+
+</p>
+
 
 ### ⚡ Fun Fact
 
