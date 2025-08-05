@@ -10,8 +10,6 @@
 </p>
 
 ---
-### 💻 My Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=KarthikBalaji-007&theme=onedark&column=9&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
 I'm not here to "just code" — I'm here to build, learn, and lead.  
@@ -56,7 +54,7 @@ Terminal-based AI dev companion* powered by `GPT‑4o`, `Claude 3 Opus`, `Gemi
   <img src="https://streak-stats.demolab.com?user=KarthikBalaji-007&theme=dark&hide_border=true" height="160" />
 </p>
 
-
+---
 
 
 ## 📚 My current plan
@@ -71,8 +69,8 @@ Terminal-based AI dev companion* powered by `GPT‑4o`, `Claude 3 Opus`, `Gemi
 
 ## 📫 Contact & Connect
 <p align="center">
-  <a href="mailto:priyanv@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/vishnupriyan-p-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:karthikbalaji0310@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/karthikbalaji-s-v"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://karthikbalaji.dev"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
 </p>
 
