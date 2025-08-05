@@ -22,6 +22,9 @@ I **don’t settle for surface-level knowledge** — if I’m working on somethi
   A privacy-focused desktop app that redacts PII from documents and clipboard using Hugging Face NER.  
   `Built with Electron.js + Node.js | .txt, .pdf, .docx supported | My first step into AI x App`
 
+---
+### 💻 My Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=KarthikBalaji-007&theme=onedark&column=9&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
